@@ -1,6 +1,6 @@
 # Appusersegmentation
 # overview
-This repository contains codes for user data in an app to analyze the segments for better data management and for marketing strategies.This project uses jupyter notebook for data analysis.
+This repository contains codes for user data in an app to analyze the segments for better data management and for marketing strategies.This project used K-means cluster in jupyter notebook for determining its data analysis.
 # Prerequisties
 1. pip
 2. python
